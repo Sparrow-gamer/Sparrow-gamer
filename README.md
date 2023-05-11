@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vishvar_Gupta
-- 👀 I’m interested in Playing Multiplayer Games
+- 👀 I’m interested in Web development and playing Games
 - 🌱 I’m currently doing BCA from PCTE Group of Institutes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
